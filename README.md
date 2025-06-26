@@ -1,4 +1,4 @@
-#Sales Report Generator — CodTech Internship Task 2
+Sales Report Generator — CodTech Internship Task 2
 
 NAME: Ritesh Raj
 
